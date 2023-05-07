@@ -1,71 +1,105 @@
-# Getting Started with Create React App
+# NetFlix Clone 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# netflix-clone
 
-## Available Scripts
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=500px height=200px src="https://user-images.githubusercontent.com/99184393/211183762-03b6e9b4-9fcd-4874-a0e4-20cf00537c06.gif" alt="Project logo"></a>
+</p>
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h3 align="center">NetFlix Clone</h3>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+<p align="center">This is a Netflix clone app built using React JS and Node JS. The app allows users to browse through a selection of movies and TV shows, view details about them, and watch trailers. 
+    <br> 
+</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 📝 Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
 
-### `npm run build`
+## 🧐 About <a name = "about"></a>
+This is a Netflix clone web application built using React JS, where users can browse movies and TV shows, search for specific titles, and watch trailers.
+ 
+## Features<a name = "features"></a>
+<ul>
+<li>Users can browse movies and TV shows</li>
+<li>Users can search for specific titles</li>
+<li>Users can watch trailers</li>
+</ul>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🏁 Getting Started <a name = "getting_started"></a>
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Prerequisites
+What things you need to install the software and how to install them.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+node js
+```
 
-### `npm run eject`
+### Installing
+A step by step series of examples that tell you how to get a development env running.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Say what the step will be
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```
+Clone the repository to your local machine using git clone https://github.com/javaniket/netflix-clone-react.git.
+```
+```
+Install the required dependencies by running npm install.
+```
+```
+Start the development server by running npm start.
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+And repeat
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```
+until finished
+```
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🎈 Usage <a name="usage"></a>
 
-### Code Splitting
+- React JS
+- React Router
+- Axios
+- Material UI
+- TMDB API
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## 🚀 Deployment <a name = "deployment"></a>
+To run the app locally, follow these steps:
+<ol>
+<li>Clone the repository to your local machine.</li>
+<li>Navigate to the root directory of the project in your terminal.</li>
+<li>Run npm install to install the necessary dependencies.</li>
+<li>Run npm start to start the app.</li>
+<li>Open http://localhost:3000 in your browser to view the app.</li>
+</ol>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- [NodeJs](https://nodejs.org/en/) - Server Environment
 
-### Deployment
+## ✍️ Authors <a name = "authors"></a>
+- [@javaniket](https://github.com/javaniket)Aniket Garg - Idea & Initial work
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# netflix-clone" 
+## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+- Instruct by: - @juniedenysolomon
+- Inspiration:-@bhupendraparihar
+- References:-@juniedenysolomon
+- Skill-Lync:-[@Skill Lync](https://skill-lync.com)
