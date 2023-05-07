@@ -52,7 +52,7 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Clone the repository to your local machine using git clone https://github.com/javaniket/netflix-clone-react.git.
+Clone the repository to your local machine using git clone https://github.com/javaniket/netflix-clone-react-js.git.
 ```
 ```
 Install the required dependencies by running npm install.
