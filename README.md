@@ -38,11 +38,15 @@ This is a Netflix clone web application built using React JS, where users can br
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
+<p align="center">
+  <a href="" rel="noopener">
  <img  src="https://github.com/javaniket/netflix-clone-react-js/blob/main/src/images/FireShot%20Capture%20005%20-%20Netflix%20Clone%20-%20localhost.png" alt="Screenshot1"></a>
-
-
  
+ ****************
+  <a href="" rel="noopener">
+ <img  src="https://github.com/javaniket/netflix-clone-react-js/blob/main/src/images/FireShot%20Capture%20006%20-%20Netflix%20Clone%20-%20localhost.png" alt="Screenshot1"></a>
+
+ </p>
 
 ### Prerequisites
 What things you need to install the software and how to install them.
