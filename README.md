@@ -43,8 +43,11 @@ These instructions will get you a copy of the project up and running on your loc
  <img  src="https://github.com/javaniket/netflix-clone-react-js/blob/main/src/images/FireShot%20Capture%20005%20-%20Netflix%20Clone%20-%20localhost.png" alt="Screenshot1"></a>
  
  ****************
+ 
   <a href="" rel="noopener">
  <img  src="https://github.com/javaniket/netflix-clone-react-js/blob/main/src/images/FireShot%20Capture%20006%20-%20Netflix%20Clone%20-%20localhost.png" alt="Screenshot2"></a>
+
+*****************
 
  <a href="" rel="noopener">
  <img  src="https://github.com/javaniket/netflix-clone-react-js/blob/main/src/images/FireShot%20Capture%20007%20-%20Netflix%20Clone%20-%20localhost.png" alt="Screenshot3"></a>
